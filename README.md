@@ -9,7 +9,7 @@
 ![Registro de empleados](ingreso.png)
 
 ### Mostrar empleados registrados
-![Mostrar empleados](capturas/mostrarEmpleados.png)
+![Mostrar empleados](mostrarEmplados.png)
 
 ### Estadísticas
 ![Estadísticas](estadisticas.png)
